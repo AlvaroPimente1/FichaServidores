@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8aa5e6e0-f1d8-4e39-8318-6413b5190814": {
+      "ProjectGuid": "8aa5e6e0-f1d8-4e39-8318-6413b5190814",
+      "DisplayName": "SampleDatabaseWalkthrough",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "3d4ceb82-05d3-427c-9f5c-8acabbbe0f32": {
+      "ProjectGuid": "3d4ceb82-05d3-427c-9f5c-8acabbbe0f32",
+      "DisplayName": "Ficha",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

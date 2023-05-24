@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d4ceb82-05d3-427c-9f5c-8acabbbe0f32": {
+      "ProjectGuid": "3d4ceb82-05d3-427c-9f5c-8acabbbe0f32",
+      "DisplayName": "Ficha",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

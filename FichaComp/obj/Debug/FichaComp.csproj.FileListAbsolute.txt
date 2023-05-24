@@ -1,0 +1,14 @@
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\Database1.mdf
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\Database1_log.ldf
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.AssemblyReference.cache
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.SuggestedBindingRedirects.cache
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\dennys.noronha\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb

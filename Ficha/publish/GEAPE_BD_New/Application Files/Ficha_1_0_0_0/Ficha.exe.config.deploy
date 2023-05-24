@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="Ficha.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+      
+      <add name="Ficha.Properties.Settings.connString" connectionString="Data Source=(LocalDB)\mssqllocaldb;Initial Catalog=GEAPE_BD;Integrated Security=True;Pooling=False" /> 
+
+      <!--
+      <add name="ModeloDados" connectionString="data source=localhost; password=mysql; user id=root; Initial Catalog=geapedb;" providerName="MySql.Data.MySqlClient" />
+      
+      <add name="geapedbContextEntities" connectionString="metadata=res://*/Entities.GeapeDbContext.csdl|res://*/Entities.GeapeDbContext.ssdl|res://*/Entities.GeapeDbContext.msl;provider=MySql.Data.MySqlClient;provider connection string=&quot;server=10.95.2.78;port=33066;password=;user id=root;database=geapedb&quot;" providerName="System.Data.EntityClient" />
+      
+      <add name="PontoSecullum4Entities" connectionString="metadata=res://*/Models.DbPontoSecullum.csdl|res://*/Models.DbPontoSecullum.ssdl|res://*/Models.DbPontoSecullum.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=hemo-fusion;initial catalog=PontoSecullum4;persist security info=True;user id=sa;password=fu$10n;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+
+      <add name="WEM_DSV_MYSQL" connectionString="data source=localhost; password=mysql; user id=root;  Allow User Variables=True; SslMode=none; Initial Catalog=sisrnc" providerName="MySql"/>
+      
+      <add name="WEM_PRD_MYSQL" connectionString="data source=10.95.2.9; password=011372$$mysql; user id=root; Allow User Variables=True; SslMode=none;Initial Catalog=sisrnc" providerName="MySql"/>
+      
+      <add name="WEM_NEW_PRD_MYSQL" connectionString="data source=10.95.2.78;port=33066; password=; user id=root; Allow User Variables=True; SslMode=none;Initial Catalog=sisrnc" providerName="MySql"/>
+      -->
+            
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <userSettings>
+        <Ficha.Properties.Settings>
+            <setting name="New" serializeAs="String">
+                <value>667, 21</value>
+            </setting>
+        </Ficha.Properties.Settings>
+    </userSettings>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="System.Runtime.CompilerServices.Unsafe" publicKeyToken="b03f5f7f11d50a3a" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-5.0.0.0" newVersion="5.0.0.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
