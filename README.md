@@ -5,7 +5,7 @@
   <li>Consulta</li>
   <li>Inserção</li>
   <li>Delete</li>
-  <li>Impressão das fichas de funcionários do HEMOPA</li>
+  <li>Impressão das fichas de funcionários</li>
 </ul>
 <br/>
 <p>Foi utilizado: </p>
